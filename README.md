@@ -39,7 +39,7 @@ In the command line start by typing the words **node** then **liri** followed th
 >**concert-this** followed by band name **parameter** 
 >will show information about a band's performances.
 
-under construction!:
+>under construction!:
 ![concert-this command](/assets/Screen-Shot-2.png "command line concert-this and result")
 ---
 **`spotify-this-song parameter`**
@@ -59,7 +59,7 @@ under construction!:
 >will show the information inside the file **random.txt**.
 >the default is set to run the *spotify-this-song* for *"I Want it That Way"* by *the Backstreet Boys*.
 
-under construction!:
+>under construction!:
 ![do-what-it-says command](/assets/Screen-Shot-5.png "command do-what-it-says and result")
 ---
 ### Log: ###
@@ -72,11 +72,11 @@ i.e. in commands.
 
 ![invalid command](/assets/Screen-Shot-1.png "invalid command, no command or parameter")
 
-**The correct format in the command line**
+>The correct format in the command line
 The **spotify-this-song** command and the parameter **phone** in the command line.
 
 ![spotify-this-song in action](/assets/Screen-Shot-8.png "[spotify-this-song in action")
 
-Enjoy your queries!! 
+### Enjoy your queries!! ###
 
 

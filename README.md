@@ -32,13 +32,9 @@ In the command line start by typing the words **node** then **liri** followed th
 
 **the results from LIRI for the parameter Airplane:**
 ![the results for airplane](/assets/Screen-Shot-6.png "the results for airplane")
-
-
-
-
 ---
 **`concert-this parameter`**
----
+
 >**concert-this** followed by band name **parameter** 
 >will show information about a band's performances.
 
@@ -77,7 +73,7 @@ i.e. in commands.
 
 **The correct formatin the command line**
 
-The *spotify-this-song* command and the parameter *phone* in the command line.
+The **spotify-this-song** command and the parameter **phone** in the command line.
 
 
 ![spotify-this-song in action](/assets/Screen-Shot-8.png "[spotify-this-song in action")

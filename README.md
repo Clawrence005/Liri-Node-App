@@ -1,4 +1,4 @@
-#h1 Liri-Node-App
+# H1 Liri-Node-App
 What the project does
 
 LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line Node JS app that takes in parameters and gives you back data from web APIs about:
@@ -12,10 +12,10 @@ How users can get started with the project
 Where users can get help with your project
 Who maintains and contributes to the project
 
-###### H6The CommandLine: 
+###### H6 The CommandLine: 
 Start by typing **node**  **the relative file path of LIRI** **the command** **parameter**
 
-###### H6The Commands: 
+###### H6 The Commands: 
 `parameter= the search parameter that LIRI will search for`
 
 `concert-this parameter`

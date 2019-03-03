@@ -2,11 +2,15 @@
 What the project does
 
 LIRI is a Language Interpretation and Recognition Interface. **LIRI is a command line Node JS app** that takes in parameters and gives you back data from web APIs about:
-    Songs and artists from spotify,
-    Bands and the venues they are performing at.
-    Movies and the generic information about its plot, actors, etc. 
+    -Songs and artists from spotify,
+    -Bands and the venues they are performing at.
+    -Movies and the generic information about its plot, actors, etc. 
 
-LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
+### The APIS Used: ###
+LIRI will search: 
+-*Spotify* for songs 
+-*Bands in Town* for concerts
+-*OMDB* for movies
 
 ### The CommandLine: ###
 Start by typing the words **node** then **liri** followed the **command** and finally the **parameter** of what you are searching for. Note that there is a space between each word.
@@ -42,6 +46,10 @@ under construction!:
 
 under construction!:
 ![do-what-it-says command](/assets/Screen-Shot-5.png "command do-what-it-says and result")
+
+### Log:###
+>**do-what-it-says**  
+>Every query to LIRI will log the information inside the file **log.txt** and redlects what is printed to the node command line.
 
 ### Troubleshooting:###
 >make sure to have a command and a parameter and leave spaces in between. Use dashes where appropriate--

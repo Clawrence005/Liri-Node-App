@@ -26,6 +26,7 @@ In the command line start by typing the words **node** then **liri** followed th
 - `do-what-it-says`
 
 ---
+
 **the command entered in the command line with the parameter Airplane**
 ![movie-this aiplane](/assets/Screen-Shot-7.png "movie-this airplane")
 
@@ -71,10 +72,8 @@ i.e. in commands.
 
 ![invalid command](/assets/Screen-Shot-1.png "invalid command, no command or parameter")
 
-**The correct formatin the command line**
-
+**The correct format in the command line**
 The **spotify-this-song** command and the parameter **phone** in the command line.
-
 
 ![spotify-this-song in action](/assets/Screen-Shot-8.png "[spotify-this-song in action")
 

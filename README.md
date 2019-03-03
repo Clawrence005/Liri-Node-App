@@ -9,12 +9,14 @@ LIRI is a Language Interpretation and Recognition Interface. **LIRI is a command
 LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 
 ### The CommandLine: ###
-Start by typing **node**  **the relative file path of LIRI** **the command** **parameter**
-`parameter= the search parameter that LIRI will search for`
+Start by typing the words **node** then **liri** followed the **command** and finally the **parameter** of what you are searching for. Note that there is a space between each word.
+`command = the search command how LIRI will search`
+
+`parameter = the search parameter that LIRI will search for`
 
 ### The Commands: ###
 
-######concert-this parameter######
+**`concert-this parameter`**
 >**concert-this** followed by band name **parameter** 
 >will show information about a band's performances.
 

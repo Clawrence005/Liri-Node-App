@@ -149,4 +149,31 @@ Artist Name: Beck
 Upcoming Events: 31
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         
+Spotify     
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~            
+Artist Name: Tyga,
+Language: Girls Have Fun (feat. G-Eazy & Rich The Kid),
+Plot: https://p.scdn.co/mp3-preview/af96d9b11588ea7d7754ccf2a8cefa7ead23a7d6?cid=8ec9223163c54aa0953c370658ede1ca,
+Actors: Girls Have Fun (feat. G-Eazy & Rich The Kid),
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         
+Bands In Town      
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~            
+Artist Name: Beck
+Upcoming Events: 31
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         
+OMBD Movie Database
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~              
+Movie: Airplane!
+Year: 1980
+imdbRating: 7.8
+Rotten Tomatoes Rating: 97%
+Rotten Tomatoes Rating: USA
+Language: English
+Plot: A man afraid to fly must ensure that a plane lands safely after the pilots become sick.
+Actors: Kareem Abdul-Jabbar, Lloyd Bridges, Peter Graves, Julie Hagerty
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            

@@ -228,7 +228,7 @@ function readTxtFile(parameter) {
         console.log("3 : " + newData2);
         // i can return spotify-this-song IWantitThatWay
         // need to figure out how to make this a command in the spotify function 
-        // i will probably need to change some architecture.
+        // i will probably need to change some architecture.bvcx
 
     });
 }

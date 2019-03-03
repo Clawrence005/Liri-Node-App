@@ -10,11 +10,11 @@ LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for mov
 
 ### The CommandLine: ###
 Start by typing **node**  **the relative file path of LIRI** **the command** **parameter**
-
-### The Commands: ###
 `parameter= the search parameter that LIRI will search for`
 
-######`concert-this parameter`######
+### The Commands: ###
+
+######concert-this parameter######
 >**concert-this** followed by band name **parameter** 
 >will show information about a band's performances.
 

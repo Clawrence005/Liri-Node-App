@@ -47,11 +47,11 @@ under construction!:
 under construction!:
 ![do-what-it-says command](/assets/Screen-Shot-5.png "command do-what-it-says and result")
 
-### Log:###
+### Log: ###
 >**do-what-it-says**  
 >Every query to LIRI will log the information inside the file **log.txt** and redlects what is printed to the node command line.
 
-### Troubleshooting:###
+### Troubleshooting: ###
 >make sure to have a command and a parameter and leave spaces in between. Use dashes where appropriate--
 i.e. in commands. 
 

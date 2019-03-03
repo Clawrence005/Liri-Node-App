@@ -21,6 +21,10 @@ Start by typing the words **node** then **liri** followed the **command** and fi
 ### The Commands: ###
 
 **`concert-this parameter`**
+**`spotify-this-song parameter`**
+**`movie-this parameter`**
+**`do-what-it-says`**
+----
 >**concert-this** followed by band name **parameter** 
 >will show information about a band's performances.
 

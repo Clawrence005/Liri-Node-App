@@ -26,3 +26,75 @@ Plot: A man afraid to fly must ensure that a plane lands safely after the pilots
 Actors: Kareem Abdul-Jabbar, Lloyd Bridges, Peter Graves, Julie Hagerty
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
             
+OMBD Movie Database
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~              
+Movie: Taken
+Year: 2008
+imdbRating: 7.8
+Rotten Tomatoes Rating: 58%
+Rotten Tomatoes Rating: France, USA
+Language: English, French, Albanian, Arabic
+Plot: A retired CIA agent travels across Europe and relies on his old skills to save his estranged daughter, who has been kidnapped while on a trip to Paris.
+Actors: Liam Neeson, Maggie Grace, Leland Orser, Jon Gries
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+             
+Spotify     
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~            
+Artist Name: Tay-K,
+Language: Lemonade,
+Plot: null,
+Actors: #SantanaWorld (+),
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         
+Spotify     
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~            
+Artist Name: Cardi B,
+Language: Thru Your Phone,
+Plot: https://p.scdn.co/mp3-preview/20b453e9c63f9b0789a50f9048d6a9a7c43ef615?cid=8ec9223163c54aa0953c370658ede1ca,
+Actors: Invasion of Privacy,
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        
+OMBD Movie Database
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~              
+Movie: M
+Year: 1931
+imdbRating: 8.3
+Rotten Tomatoes Rating: 100%
+Rotten Tomatoes Rating: Germany
+Language: German
+Plot: When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.
+Actors: Peter Lorre, Ellen Widmann, Inge Landgut, Otto Wernicke
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            
+OMBD Movie Database
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~              
+Movie: Airplane!
+Year: 1980
+imdbRating: 7.8
+Rotten Tomatoes Rating: 97%
+Rotten Tomatoes Rating: USA
+Language: English
+Plot: A man afraid to fly must ensure that a plane lands safely after the pilots become sick.
+Actors: Kareem Abdul-Jabbar, Lloyd Bridges, Peter Graves, Julie Hagerty
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+             
+Spotify     
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~            
+Artist Name: Cardi B,
+Language: Thru Your Phone,
+Plot: https://p.scdn.co/mp3-preview/20b453e9c63f9b0789a50f9048d6a9a7c43ef615?cid=8ec9223163c54aa0953c370658ede1ca,
+Actors: Invasion of Privacy,
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        
+OMBD Movie Database
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~              
+Movie: Airplane!
+Year: 1980
+imdbRating: 7.8
+Rotten Tomatoes Rating: 97%
+Rotten Tomatoes Rating: USA
+Language: English
+Plot: A man afraid to fly must ensure that a plane lands safely after the pilots become sick.
+Actors: Kareem Abdul-Jabbar, Lloyd Bridges, Peter Graves, Julie Hagerty
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            

@@ -43,23 +43,24 @@ In the command line start by typing the words **node** then **liri** followed th
 ![concert-this command](/assets/Screen-Shot-2.png "command line concert-this and result")
 ---
 **`spotify-this-song parameter`**
+
 >**spotify-this-song** followed by song name **parameter** 
 >will show information about song being searched.
 
 ![spotify-this-song command](/assets/Screen-Shot-3.png "command line spotify-this-song and result")
 ---
 **`movie-this parameter`**
+
 >**movie-this parameter** followed by movie name **parameter** 
 >will show general information about the movie being searched.
 
 ![movie-this command](/assets/Screen-Shot-4.png "command line movie-this and result")
 ---
 **`do-what-it-says`**
->**do-what-it-says**  
->will show the information inside the file **random.txt**.
->the default is set to run the *spotify-this-song* for *"I Want it That Way"* by *the Backstreet Boys*.
 
->under construction!:
+>**do-what-it-says** will read what is in the file *random.txt*. If formatted as one of the above commands the text will run LIRI.  
+>the default is set to **spotify-this-song,"I Want it That Way"** which will information for *"I Want it That Way"* by *the Backstreet Boys*.
+
 ![do-what-it-says command](/assets/Screen-Shot-5.png "command do-what-it-says and result")
 ---
 ### Log: ###

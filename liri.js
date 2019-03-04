@@ -1,7 +1,3 @@
-
-
-/////////////////////////////////////
-
 require("dotenv").config();
 var fs = require("fs");
 var keys = require("./keys.js");
@@ -16,12 +12,13 @@ var request = require('request');
 
 
 // Make it so liri.js can take in one of the following commands:
-var searchCommand = process.argv[2];
-var parameter = process.argv[3];
+var searchCommand2 = process.argv[2];
+
+var parameter3 = process.argv[3];
 // const args = process.argv.slice(2);
 
 // Possible commands for this liri app
-function switchCase() {
+function switchCase(searchCommand, parameter) {
 
     switch (searchCommand) {
 
@@ -159,6 +156,7 @@ Actors: ${data.tracks.items[0].album.name},
 /////////
 function movieInfo(parameter) {
     var movie = parameter;
+    var movieData = "help";
     console.log("movie : " + parameter);
     var queryUrl = "http://www.omdbapi.com/?t=" + movie + "&y=&plot=short&apikey=trilogy";
     if (movie === undefined) {
@@ -170,7 +168,7 @@ function movieInfo(parameter) {
 
 
     request(queryUrl, function (error, results, body) {
-        var movieData = JSON.parse(body);
+        movieData = JSON.parse(body);
         if (error) {
             console.log('Error occurred: ' + error);
             return;
@@ -211,6 +209,7 @@ Actors: ${movieData.Actors}
             });
         }
     });
+    console.log(movieData);
 };
 ///////////
 function readTxtFile(parameter) {
@@ -219,17 +218,37 @@ function readTxtFile(parameter) {
         if (error) {
             return console.log(error);
         }
-        var data = contents.split(' ').join("");
-        var newData = data.split('"').join('');
-        newData2 = newData.split(',').join(' ');
+        var data = contents.split(',');
+        // var newData = data.split('"').join(' ');
+        // newData2 = newData.split(',').join(' ');
         // var newData3 = newData2.slice(0, 9);
         console.log("1 : " + data);
-        console.log("2 : " + newData);
-        console.log("3 : " + newData2);
-        // i can return spotify-this-song IWantitThatWay
-        // need to figure out how to make this a command in the spotify function 
-        // i will probably need to change some architecture.bvcx
+        // console.log("2 : " + newData);
+        // console.log("3 : " + newData2);
+        // i can return spotify-this-song, IWantitThatWay
 
+        // switch (data[0]) {
+
+        //     case "concert-this":
+        //         bandsInTown(data[1]);
+        //         console.log("concert-this" + data[1]);
+        //         break;
+
+        //     case "spotify-this-song":
+        //         spotifySong(data[1]);
+        //         console.log("spotify-this-song" + data[1]);
+        //         break;
+
+        //     case "movie-this":
+        //         movieInfo(data[1]);
+        //         console.log("movie-this" + data[1]);
+        //         break;
+
+        //     default:
+        //         console.log("Invalid Instruction. Refer to readMe for instructions")
+        //         break;
+        // }
+        switchCase(data[0], data[1]);
     });
 }
 //     var searchTrack = data.split(",").join(" ");
@@ -264,4 +283,4 @@ function readTxtFile(parameter) {
 // }
 
 //////////
-switchCase();
+switchCase(searchCommand2, parameter3);

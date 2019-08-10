@@ -1,5 +1,5 @@
 # Liri-Node-App #
-What the project does
+## What the project does ##
 
 LIRI is a Language Interpretation and Recognition Interface. **LIRI is a command line Node JS app** that takes in parameters and gives you back data from web APIs about:
 - Songs and artists from spotify,

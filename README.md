@@ -20,8 +20,8 @@ In the command line start by typing the words **node** then **liri** followed th
 
 ### The Commands: ###
 
-- `concert-this parameter`
-- `spotify-this-song parameter`
+- `concert-this` + `parameter`
+- `spotify-this-song` parameter`
 - `movie-this parameter`
 - `do-what-it-says`
 
